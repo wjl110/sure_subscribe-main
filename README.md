@@ -30,6 +30,6 @@
 
 访问密码：clash
 
-## ⭐ 感谢支持
+## ⭐ 原作者链接🔗https://github.com/ermaozi/get_subscribe
 
-[![操，图挂了……](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/mail/project_info.svg)](https://github.com/ermaozi/get_subscribe)
+
